@@ -1,3 +1,3 @@
-def f_divide(a, b):
+def f_divided(a, b):
     result = a / b
     return result
