@@ -10,7 +10,7 @@ if cal == "곱삼":
     print(f_multiple(A, B))
 elif cal == "나눗셈":
     print(f_divided(A, B))
-elif cal == "덧셉":
+elif cal == "덧셈":
     print(f_add(A, B))
 else :
     print(f_substract(A, B))
