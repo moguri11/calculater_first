@@ -6,7 +6,7 @@ from f_substract import f_substract
 A, B = map(int, input().strip())
 cal = input()
 
-if cal == "곱셉":
+if cal == "곱삼":
     print(f_multiple(A, B))
 elif cal == "나눗셈":
     print(f_divided(A, B))
