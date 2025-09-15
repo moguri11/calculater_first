@@ -1,3 +1,3 @@
 def f_multiple(a, b):
-    return a * b
+    result = a * b
     return result
