@@ -1,2 +1,2 @@
-def f_substract(a:float, b:float):
+def f_substract(a:int, b:int):
     return a-b

@@ -1,2 +1,2 @@
-def f_add(a:float, b:float):
+def f_add(a:int, b:int):
     return a+b
